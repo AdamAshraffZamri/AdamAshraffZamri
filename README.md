@@ -51,5 +51,8 @@ First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)
 - <a href="mailto:adamzamri09@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **PERSONAL EMAIL**
 - <a href="mailto:muhammadadamashraff@graduate.utm.my" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **UTM EMAIL**
 
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamAshraffZamri&show_icons=true&theme=radical)  
+### 📊 GitHub Stats: 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamAshraffZamri&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamAshraffZamri&theme=tokyonight" height="160px" />
+</p>
