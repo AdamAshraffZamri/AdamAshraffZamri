@@ -1,6 +1,6 @@
 # 👋 I'm Muhammad Adam Ashraff bin Zamri!
 
-First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**, passionate about data and programming. I can communicate in **Malay** and **English**, and while I'm still improving my fluency in **Arabic**, I can manage basic communication in all three languages. I'm excited to sharpen my skills to solve real-world challenges. Guided by the belief that **"Who has the data has the power"** – Tim O'Reilly, I am committed to learning, growing, and contributing to a data-driven future. I aim to turn data into meaningful information that can drive impactful change.
+First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**, passionate about data and programming. I'm able to communicate fluently in **Malay** and **English**, and while I'm still improving my fluency in **Arabic** and **Korean**, I can manage basic communication in all four languages. I'm excited to sharpen my skills to solve real-world challenges. Guided by the belief that **"Who has the data has the power"** – Tim O'Reilly, I am committed to learning, growing, and contributing to a data-driven future. I aim to turn data into meaningful information that can drive impactful change.
 
 ##  🎓 Academic Background
 - Primary School
@@ -13,19 +13,26 @@ First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)
   - CGPA(3.96)
 - Bachelor Degree
   - Universiti Teknologi Malaysia(Data Engineering)
+  - Current CGPA(3.81)
     
 ### Participation in University Events
 - 🌟Crew for SUSKOM' 24(Protocol Unit)
 - 🏃‍♂️Seloka run 2024
 - ⚔️mobile legends tournament (OPERA' 25)
 - 🏑Woodball ria KTC
-- Japan edu-tourism exhange
+- Participated in UTMXHACKATHON '25
+- Volunteered in JARVIS '25
+- Participated in Pertandingan E-Poster & Video Pendek Sempena Hari Kesihatan UTM 2025
+- Participated in INTELLIGENT GENERATION OF NEW IDEAS IN TECH ENGINEERING (IGNITE '25)
+- Facilitator of Malaysia - Japan International Edutourism Exchange 
+- Facilitator of Malaysia - Japan International Sustainable Development Goals(SDGs) Study Tour
   
 📘 Currently studying:  
-- 🖥️ **Technology and Information System**  
-- ⚙️ **Digital Logic**  
-- 🔢 **Discrete Structures**  
-- 💻 **Programming Technique 1**
+- 🖥️ **Software Engineering(WBL)**  
+- ⚙️ **Database(WBL)**  
+- 🔢 **System Development Technology(WBL)**  
+- 💻 **Data Structure and Algorithm**
+- 💻 **Network Communication**
 
 ## 💻 Programming Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,6 +47,7 @@ First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)
 
 ✨ Let’s connect, share ideas, and grow together in this exciting tech journey! ✨
 - <a href="https://instagram.com/your_instagram_adam._.ashraff" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30"/></a> **INSTAGRAM**
+- <a href="https://www.linkedin.com/in/adam-ashraff" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/></a> **LINKEDIN**
 - <a href="mailto:adamzamri09@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **PERSONAL EMAIL**
 - <a href="mailto:muhammadadamashraff@graduate.utm.my" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **UTM EMAIL**
 
