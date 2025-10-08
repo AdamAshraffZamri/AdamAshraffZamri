@@ -43,7 +43,7 @@ First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)
 
 🌍 **Outside of academics**:  
 - 🚀 Exploring new things  
-- 🍜 Discovering unique and delicious food  
+- 🍜 Discovering unique and delicious food(veggies hater) 
 
 ✨ Let’s connect, share ideas, and grow together in this exciting tech journey! ✨
 - <a href="https://instagram.com/your_instagram_adam._.ashraff" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30"/></a> **INSTAGRAM**
