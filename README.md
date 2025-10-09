@@ -56,3 +56,5 @@ First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)
   <img src="https://github-readme-stats.vercel.app/api?username=AdamAshraffZamri&show_icons=true&theme=tokyonight" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamAshraffZamri&theme=tokyonight" height="160px" />
 </p>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AdamAshraffZamri.AdamAshraffZamri)
